@@ -9,7 +9,7 @@ get '/' do
 			<title>Sinatra - Hello World!</title>
 		</head>
 		<body>
-			<h1>Hello, #{name}!</h1>
+			<h1>Hello, Pull Request!!</h1>
 		</body>
 	</html>
 	EOF
